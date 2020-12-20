@@ -5,7 +5,7 @@ Name:
 Horision Website Optimization
 
 Purpose:
-To clean up the HTML and CSS code for Horiseon, in addition to creating a more accessible and user-friendly website. This included rearranging CSS code to follow that of the HTML code. Semantic tags were added and replaced the majority of the <div> tags in addition to adding <alt> tags to the images. This is all done so that the website has greater accessibility potential, while allowing a better positioning in search engines. 
+To clean up the HTML and CSS code for Horiseon, in addition to creating a more accessible and user-friendly website. This included rearranging CSS code to follow that of the HTML code. Semantic tags were added and replaced the majority of the "div" tags in addition to adding "alt" tags to the images. This is all done so that the website has greater accessibility potential, while allowing a better positioning in search engines. 
 
 Installation/Access:
 Internet access is required this webpage. The URL is attached below:
