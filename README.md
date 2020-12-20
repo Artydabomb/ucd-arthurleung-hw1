@@ -14,7 +14,7 @@ Internet access is required this webpage. The URL is attached below:
 
 A sample picture of the webpage is as is:
 
-<img src="./01-html-css-git-homework-demo.png">
+<img src="./assets/01-html-css-git-homework-demo.png">
 
 Code Modified by Arthur Leung
 
